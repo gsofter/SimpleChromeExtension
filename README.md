@@ -9,3 +9,4 @@ git clone https://github.com/Guru2921/SimpleChromeExtension.git
 
 
 ![screenshot1](/screenshots/1.png)
+![screenshot1](/screenshots/2.png)
